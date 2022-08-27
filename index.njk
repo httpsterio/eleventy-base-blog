@@ -4,108 +4,18 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h1>Hennan ja Samin häät</h1>
 
 
 <div class="pswp-gallery" id="my-gallery">
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"
-      data-pswp-width="1875"
-      data-pswp-height="2500"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-      data-pswp-width="1669"
-      data-pswp-height="2500"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1666"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"
-      data-pswp-width="1875"
-      data-pswp-height="2500"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-      data-pswp-width="1669"
-      data-pswp-height="2500"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1666"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"
-      data-pswp-width="1875"
-      data-pswp-height="2500"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-      data-pswp-width="1669"
-      data-pswp-height="2500"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"
-        alt=""
-      />
-    </a>
-    <a
-      href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1666"
-      target="_blank"
-    >
-      <img
-        src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"
-        alt=""
-      />
-    </a>
-  </div>
+  {# Iterating all objects in _data/photos.json #}
+  {% for photo in photos -%}
+
+  {# Last object in json is empty so ignore that #}
+  {% if photo.url | length %}
+  <a href="{{ photo.url }}" data-pswp-width="{{ photo.width }}" data-pswp-height="{{ photo.height }}" target="_blank">
+    <img src="{{ photo.thumb }}" alt=""/>
+  </a>
+  {% endif %}
+  {%- endfor %}
+</div>
