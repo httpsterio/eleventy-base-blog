@@ -1,975 +1,1695 @@
 [
   {
     "url": "/img/full/001.jpg",
-    "thumb": "/img/thumb/001.jpg",
+    "alt": "kuva 001",
+    "thumb": "img/thumb/jpg/001.jpg",
+    "thumbAvif": "img/thumb/avif/001.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/002.jpg",
-    "thumb": "/img/thumb/002.jpg",
+    "alt": "kuva 002",
+    "thumb": "img/thumb/jpg/002.jpg",
+    "thumbAvif": "img/thumb/avif/002.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/003.jpg",
-    "thumb": "/img/thumb/003.jpg",
+    "alt": "kuva 003",
+    "thumb": "img/thumb/jpg/003.jpg",
+    "thumbAvif": "img/thumb/avif/003.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/004.jpg",
-    "thumb": "/img/thumb/004.jpg",
+    "alt": "kuva 004",
+    "thumb": "img/thumb/jpg/004.jpg",
+    "thumbAvif": "img/thumb/avif/004.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/005.jpg",
-    "thumb": "/img/thumb/005.jpg",
+    "alt": "kuva 005",
+    "thumb": "img/thumb/jpg/005.jpg",
+    "thumbAvif": "img/thumb/avif/005.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/006.jpg",
-    "thumb": "/img/thumb/006.jpg",
+    "alt": "kuva 006",
+    "thumb": "img/thumb/jpg/006.jpg",
+    "thumbAvif": "img/thumb/avif/006.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/007.jpg",
-    "thumb": "/img/thumb/007.jpg",
+    "alt": "kuva 007",
+    "thumb": "img/thumb/jpg/007.jpg",
+    "thumbAvif": "img/thumb/avif/007.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/008.jpg",
-    "thumb": "/img/thumb/008.jpg",
+    "alt": "kuva 008",
+    "thumb": "img/thumb/jpg/008.jpg",
+    "thumbAvif": "img/thumb/avif/008.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/009.jpg",
-    "thumb": "/img/thumb/009.jpg",
+    "alt": "kuva 009",
+    "thumb": "img/thumb/jpg/009.jpg",
+    "thumbAvif": "img/thumb/avif/009.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/010.jpg",
-    "thumb": "/img/thumb/010.jpg",
+    "alt": "kuva 010",
+    "thumb": "img/thumb/jpg/010.jpg",
+    "thumbAvif": "img/thumb/avif/010.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/011.jpg",
-    "thumb": "/img/thumb/011.jpg",
+    "alt": "kuva 011",
+    "thumb": "img/thumb/jpg/011.jpg",
+    "thumbAvif": "img/thumb/avif/011.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/012.jpg",
-    "thumb": "/img/thumb/012.jpg",
+    "alt": "kuva 012",
+    "thumb": "img/thumb/jpg/012.jpg",
+    "thumbAvif": "img/thumb/avif/012.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/013.jpg",
-    "thumb": "/img/thumb/013.jpg",
+    "alt": "kuva 013",
+    "thumb": "img/thumb/jpg/013.jpg",
+    "thumbAvif": "img/thumb/avif/013.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/014.jpg",
-    "thumb": "/img/thumb/014.jpg",
+    "alt": "kuva 014",
+    "thumb": "img/thumb/jpg/014.jpg",
+    "thumbAvif": "img/thumb/avif/014.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/015.jpg",
-    "thumb": "/img/thumb/015.jpg",
+    "alt": "kuva 015",
+    "thumb": "img/thumb/jpg/015.jpg",
+    "thumbAvif": "img/thumb/avif/015.avif",
+    "thumbSize": 300,
     "width": 3441,
     "height": 2294
   },
   {
     "url": "/img/full/016.jpg",
-    "thumb": "/img/thumb/016.jpg",
+    "alt": "kuva 016",
+    "thumb": "img/thumb/jpg/016.jpg",
+    "thumbAvif": "img/thumb/avif/016.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/017.jpg",
-    "thumb": "/img/thumb/017.jpg",
+    "alt": "kuva 017",
+    "thumb": "img/thumb/jpg/017.jpg",
+    "thumbAvif": "img/thumb/avif/017.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/018.jpg",
-    "thumb": "/img/thumb/018.jpg",
+    "alt": "kuva 018",
+    "thumb": "img/thumb/jpg/018.jpg",
+    "thumbAvif": "img/thumb/avif/018.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/019.jpg",
-    "thumb": "/img/thumb/019.jpg",
+    "alt": "kuva 019",
+    "thumb": "img/thumb/jpg/019.jpg",
+    "thumbAvif": "img/thumb/avif/019.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/020.jpg",
-    "thumb": "/img/thumb/020.jpg",
+    "alt": "kuva 020",
+    "thumb": "img/thumb/jpg/020.jpg",
+    "thumbAvif": "img/thumb/avif/020.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/021.jpg",
-    "thumb": "/img/thumb/021.jpg",
+    "alt": "kuva 021",
+    "thumb": "img/thumb/jpg/021.jpg",
+    "thumbAvif": "img/thumb/avif/021.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/022.jpg",
-    "thumb": "/img/thumb/022.jpg",
+    "alt": "kuva 022",
+    "thumb": "img/thumb/jpg/022.jpg",
+    "thumbAvif": "img/thumb/avif/022.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/023.jpg",
-    "thumb": "/img/thumb/023.jpg",
+    "alt": "kuva 023",
+    "thumb": "img/thumb/jpg/023.jpg",
+    "thumbAvif": "img/thumb/avif/023.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/024.jpg",
-    "thumb": "/img/thumb/024.jpg",
+    "alt": "kuva 024",
+    "thumb": "img/thumb/jpg/024.jpg",
+    "thumbAvif": "img/thumb/avif/024.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/025.jpg",
-    "thumb": "/img/thumb/025.jpg",
+    "alt": "kuva 025",
+    "thumb": "img/thumb/jpg/025.jpg",
+    "thumbAvif": "img/thumb/avif/025.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/026.jpg",
-    "thumb": "/img/thumb/026.jpg",
+    "alt": "kuva 026",
+    "thumb": "img/thumb/jpg/026.jpg",
+    "thumbAvif": "img/thumb/avif/026.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/027.jpg",
-    "thumb": "/img/thumb/027.jpg",
+    "alt": "kuva 027",
+    "thumb": "img/thumb/jpg/027.jpg",
+    "thumbAvif": "img/thumb/avif/027.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/028.jpg",
-    "thumb": "/img/thumb/028.jpg",
+    "alt": "kuva 028",
+    "thumb": "img/thumb/jpg/028.jpg",
+    "thumbAvif": "img/thumb/avif/028.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/029.jpg",
-    "thumb": "/img/thumb/029.jpg",
+    "alt": "kuva 029",
+    "thumb": "img/thumb/jpg/029.jpg",
+    "thumbAvif": "img/thumb/avif/029.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/030.jpg",
-    "thumb": "/img/thumb/030.jpg",
+    "alt": "kuva 030",
+    "thumb": "img/thumb/jpg/030.jpg",
+    "thumbAvif": "img/thumb/avif/030.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/031.jpg",
-    "thumb": "/img/thumb/031.jpg",
+    "alt": "kuva 031",
+    "thumb": "img/thumb/jpg/031.jpg",
+    "thumbAvif": "img/thumb/avif/031.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/032.jpg",
-    "thumb": "/img/thumb/032.jpg",
+    "alt": "kuva 032",
+    "thumb": "img/thumb/jpg/032.jpg",
+    "thumbAvif": "img/thumb/avif/032.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/033.jpg",
-    "thumb": "/img/thumb/033.jpg",
+    "alt": "kuva 033",
+    "thumb": "img/thumb/jpg/033.jpg",
+    "thumbAvif": "img/thumb/avif/033.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/034.jpg",
-    "thumb": "/img/thumb/034.jpg",
+    "alt": "kuva 034",
+    "thumb": "img/thumb/jpg/034.jpg",
+    "thumbAvif": "img/thumb/avif/034.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/035.jpg",
-    "thumb": "/img/thumb/035.jpg",
+    "alt": "kuva 035",
+    "thumb": "img/thumb/jpg/035.jpg",
+    "thumbAvif": "img/thumb/avif/035.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/036.jpg",
-    "thumb": "/img/thumb/036.jpg",
+    "alt": "kuva 036",
+    "thumb": "img/thumb/jpg/036.jpg",
+    "thumbAvif": "img/thumb/avif/036.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/037.jpg",
-    "thumb": "/img/thumb/037.jpg",
+    "alt": "kuva 037",
+    "thumb": "img/thumb/jpg/037.jpg",
+    "thumbAvif": "img/thumb/avif/037.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/038.jpg",
-    "thumb": "/img/thumb/038.jpg",
+    "alt": "kuva 038",
+    "thumb": "img/thumb/jpg/038.jpg",
+    "thumbAvif": "img/thumb/avif/038.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/039.jpg",
-    "thumb": "/img/thumb/039.jpg",
+    "alt": "kuva 039",
+    "thumb": "img/thumb/jpg/039.jpg",
+    "thumbAvif": "img/thumb/avif/039.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/040.jpg",
-    "thumb": "/img/thumb/040.jpg",
+    "alt": "kuva 040",
+    "thumb": "img/thumb/jpg/040.jpg",
+    "thumbAvif": "img/thumb/avif/040.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/041.jpg",
-    "thumb": "/img/thumb/041.jpg",
+    "alt": "kuva 041",
+    "thumb": "img/thumb/jpg/041.jpg",
+    "thumbAvif": "img/thumb/avif/041.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/042.jpg",
-    "thumb": "/img/thumb/042.jpg",
+    "alt": "kuva 042",
+    "thumb": "img/thumb/jpg/042.jpg",
+    "thumbAvif": "img/thumb/avif/042.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/043.jpg",
-    "thumb": "/img/thumb/043.jpg",
+    "alt": "kuva 043",
+    "thumb": "img/thumb/jpg/043.jpg",
+    "thumbAvif": "img/thumb/avif/043.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/044.jpg",
-    "thumb": "/img/thumb/044.jpg",
+    "alt": "kuva 044",
+    "thumb": "img/thumb/jpg/044.jpg",
+    "thumbAvif": "img/thumb/avif/044.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/045.jpg",
-    "thumb": "/img/thumb/045.jpg",
+    "alt": "kuva 045",
+    "thumb": "img/thumb/jpg/045.jpg",
+    "thumbAvif": "img/thumb/avif/045.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/046.jpg",
-    "thumb": "/img/thumb/046.jpg",
+    "alt": "kuva 046",
+    "thumb": "img/thumb/jpg/046.jpg",
+    "thumbAvif": "img/thumb/avif/046.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/047.jpg",
-    "thumb": "/img/thumb/047.jpg",
+    "alt": "kuva 047",
+    "thumb": "img/thumb/jpg/047.jpg",
+    "thumbAvif": "img/thumb/avif/047.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/048.jpg",
-    "thumb": "/img/thumb/048.jpg",
+    "alt": "kuva 048",
+    "thumb": "img/thumb/jpg/048.jpg",
+    "thumbAvif": "img/thumb/avif/048.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/049.jpg",
-    "thumb": "/img/thumb/049.jpg",
+    "alt": "kuva 049",
+    "thumb": "img/thumb/jpg/049.jpg",
+    "thumbAvif": "img/thumb/avif/049.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/050.jpg",
-    "thumb": "/img/thumb/050.jpg",
+    "alt": "kuva 050",
+    "thumb": "img/thumb/jpg/050.jpg",
+    "thumbAvif": "img/thumb/avif/050.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/051.jpg",
-    "thumb": "/img/thumb/051.jpg",
+    "alt": "kuva 051",
+    "thumb": "img/thumb/jpg/051.jpg",
+    "thumbAvif": "img/thumb/avif/051.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/052.jpg",
-    "thumb": "/img/thumb/052.jpg",
+    "alt": "kuva 052",
+    "thumb": "img/thumb/jpg/052.jpg",
+    "thumbAvif": "img/thumb/avif/052.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/053.jpg",
-    "thumb": "/img/thumb/053.jpg",
+    "alt": "kuva 053",
+    "thumb": "img/thumb/jpg/053.jpg",
+    "thumbAvif": "img/thumb/avif/053.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/054.jpg",
-    "thumb": "/img/thumb/054.jpg",
+    "alt": "kuva 054",
+    "thumb": "img/thumb/jpg/054.jpg",
+    "thumbAvif": "img/thumb/avif/054.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/055.jpg",
-    "thumb": "/img/thumb/055.jpg",
+    "alt": "kuva 055",
+    "thumb": "img/thumb/jpg/055.jpg",
+    "thumbAvif": "img/thumb/avif/055.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/056.jpg",
-    "thumb": "/img/thumb/056.jpg",
+    "alt": "kuva 056",
+    "thumb": "img/thumb/jpg/056.jpg",
+    "thumbAvif": "img/thumb/avif/056.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/057.jpg",
-    "thumb": "/img/thumb/057.jpg",
+    "alt": "kuva 057",
+    "thumb": "img/thumb/jpg/057.jpg",
+    "thumbAvif": "img/thumb/avif/057.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/058.jpg",
-    "thumb": "/img/thumb/058.jpg",
+    "alt": "kuva 058",
+    "thumb": "img/thumb/jpg/058.jpg",
+    "thumbAvif": "img/thumb/avif/058.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/059.jpg",
-    "thumb": "/img/thumb/059.jpg",
+    "alt": "kuva 059",
+    "thumb": "img/thumb/jpg/059.jpg",
+    "thumbAvif": "img/thumb/avif/059.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/060.jpg",
-    "thumb": "/img/thumb/060.jpg",
+    "alt": "kuva 060",
+    "thumb": "img/thumb/jpg/060.jpg",
+    "thumbAvif": "img/thumb/avif/060.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/061.jpg",
-    "thumb": "/img/thumb/061.jpg",
+    "alt": "kuva 061",
+    "thumb": "img/thumb/jpg/061.jpg",
+    "thumbAvif": "img/thumb/avif/061.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/062.jpg",
-    "thumb": "/img/thumb/062.jpg",
+    "alt": "kuva 062",
+    "thumb": "img/thumb/jpg/062.jpg",
+    "thumbAvif": "img/thumb/avif/062.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/063.jpg",
-    "thumb": "/img/thumb/063.jpg",
+    "alt": "kuva 063",
+    "thumb": "img/thumb/jpg/063.jpg",
+    "thumbAvif": "img/thumb/avif/063.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/064.jpg",
-    "thumb": "/img/thumb/064.jpg",
+    "alt": "kuva 064",
+    "thumb": "img/thumb/jpg/064.jpg",
+    "thumbAvif": "img/thumb/avif/064.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/065.jpg",
-    "thumb": "/img/thumb/065.jpg",
+    "alt": "kuva 065",
+    "thumb": "img/thumb/jpg/065.jpg",
+    "thumbAvif": "img/thumb/avif/065.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/066.jpg",
-    "thumb": "/img/thumb/066.jpg",
+    "alt": "kuva 066",
+    "thumb": "img/thumb/jpg/066.jpg",
+    "thumbAvif": "img/thumb/avif/066.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/067.jpg",
-    "thumb": "/img/thumb/067.jpg",
+    "alt": "kuva 067",
+    "thumb": "img/thumb/jpg/067.jpg",
+    "thumbAvif": "img/thumb/avif/067.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/068.jpg",
-    "thumb": "/img/thumb/068.jpg",
+    "alt": "kuva 068",
+    "thumb": "img/thumb/jpg/068.jpg",
+    "thumbAvif": "img/thumb/avif/068.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/069.jpg",
-    "thumb": "/img/thumb/069.jpg",
+    "alt": "kuva 069",
+    "thumb": "img/thumb/jpg/069.jpg",
+    "thumbAvif": "img/thumb/avif/069.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/070.jpg",
-    "thumb": "/img/thumb/070.jpg",
+    "alt": "kuva 070",
+    "thumb": "img/thumb/jpg/070.jpg",
+    "thumbAvif": "img/thumb/avif/070.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/071.jpg",
-    "thumb": "/img/thumb/071.jpg",
+    "alt": "kuva 071",
+    "thumb": "img/thumb/jpg/071.jpg",
+    "thumbAvif": "img/thumb/avif/071.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/072.jpg",
-    "thumb": "/img/thumb/072.jpg",
+    "alt": "kuva 072",
+    "thumb": "img/thumb/jpg/072.jpg",
+    "thumbAvif": "img/thumb/avif/072.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/073.jpg",
-    "thumb": "/img/thumb/073.jpg",
+    "alt": "kuva 073",
+    "thumb": "img/thumb/jpg/073.jpg",
+    "thumbAvif": "img/thumb/avif/073.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/074.jpg",
-    "thumb": "/img/thumb/074.jpg",
+    "alt": "kuva 074",
+    "thumb": "img/thumb/jpg/074.jpg",
+    "thumbAvif": "img/thumb/avif/074.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/075.jpg",
-    "thumb": "/img/thumb/075.jpg",
+    "alt": "kuva 075",
+    "thumb": "img/thumb/jpg/075.jpg",
+    "thumbAvif": "img/thumb/avif/075.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/076.jpg",
-    "thumb": "/img/thumb/076.jpg",
+    "alt": "kuva 076",
+    "thumb": "img/thumb/jpg/076.jpg",
+    "thumbAvif": "img/thumb/avif/076.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/077.jpg",
-    "thumb": "/img/thumb/077.jpg",
+    "alt": "kuva 077",
+    "thumb": "img/thumb/jpg/077.jpg",
+    "thumbAvif": "img/thumb/avif/077.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/078.jpg",
-    "thumb": "/img/thumb/078.jpg",
+    "alt": "kuva 078",
+    "thumb": "img/thumb/jpg/078.jpg",
+    "thumbAvif": "img/thumb/avif/078.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/079.jpg",
-    "thumb": "/img/thumb/079.jpg",
+    "alt": "kuva 079",
+    "thumb": "img/thumb/jpg/079.jpg",
+    "thumbAvif": "img/thumb/avif/079.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/080.jpg",
-    "thumb": "/img/thumb/080.jpg",
+    "alt": "kuva 080",
+    "thumb": "img/thumb/jpg/080.jpg",
+    "thumbAvif": "img/thumb/avif/080.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/081.jpg",
-    "thumb": "/img/thumb/081.jpg",
+    "alt": "kuva 081",
+    "thumb": "img/thumb/jpg/081.jpg",
+    "thumbAvif": "img/thumb/avif/081.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/082.jpg",
-    "thumb": "/img/thumb/082.jpg",
+    "alt": "kuva 082",
+    "thumb": "img/thumb/jpg/082.jpg",
+    "thumbAvif": "img/thumb/avif/082.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/083.jpg",
-    "thumb": "/img/thumb/083.jpg",
+    "alt": "kuva 083",
+    "thumb": "img/thumb/jpg/083.jpg",
+    "thumbAvif": "img/thumb/avif/083.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/084.jpg",
-    "thumb": "/img/thumb/084.jpg",
+    "alt": "kuva 084",
+    "thumb": "img/thumb/jpg/084.jpg",
+    "thumbAvif": "img/thumb/avif/084.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/085.jpg",
-    "thumb": "/img/thumb/085.jpg",
+    "alt": "kuva 085",
+    "thumb": "img/thumb/jpg/085.jpg",
+    "thumbAvif": "img/thumb/avif/085.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/086.jpg",
-    "thumb": "/img/thumb/086.jpg",
+    "alt": "kuva 086",
+    "thumb": "img/thumb/jpg/086.jpg",
+    "thumbAvif": "img/thumb/avif/086.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/087.jpg",
-    "thumb": "/img/thumb/087.jpg",
+    "alt": "kuva 087",
+    "thumb": "img/thumb/jpg/087.jpg",
+    "thumbAvif": "img/thumb/avif/087.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/088.jpg",
-    "thumb": "/img/thumb/088.jpg",
+    "alt": "kuva 088",
+    "thumb": "img/thumb/jpg/088.jpg",
+    "thumbAvif": "img/thumb/avif/088.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/089.jpg",
-    "thumb": "/img/thumb/089.jpg",
+    "alt": "kuva 089",
+    "thumb": "img/thumb/jpg/089.jpg",
+    "thumbAvif": "img/thumb/avif/089.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/090.jpg",
-    "thumb": "/img/thumb/090.jpg",
+    "alt": "kuva 090",
+    "thumb": "img/thumb/jpg/090.jpg",
+    "thumbAvif": "img/thumb/avif/090.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/091.jpg",
-    "thumb": "/img/thumb/091.jpg",
+    "alt": "kuva 091",
+    "thumb": "img/thumb/jpg/091.jpg",
+    "thumbAvif": "img/thumb/avif/091.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/092.jpg",
-    "thumb": "/img/thumb/092.jpg",
+    "alt": "kuva 092",
+    "thumb": "img/thumb/jpg/092.jpg",
+    "thumbAvif": "img/thumb/avif/092.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/093.jpg",
-    "thumb": "/img/thumb/093.jpg",
+    "alt": "kuva 093",
+    "thumb": "img/thumb/jpg/093.jpg",
+    "thumbAvif": "img/thumb/avif/093.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/094.jpg",
-    "thumb": "/img/thumb/094.jpg",
+    "alt": "kuva 094",
+    "thumb": "img/thumb/jpg/094.jpg",
+    "thumbAvif": "img/thumb/avif/094.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/095.jpg",
-    "thumb": "/img/thumb/095.jpg",
+    "alt": "kuva 095",
+    "thumb": "img/thumb/jpg/095.jpg",
+    "thumbAvif": "img/thumb/avif/095.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/096.jpg",
-    "thumb": "/img/thumb/096.jpg",
+    "alt": "kuva 096",
+    "thumb": "img/thumb/jpg/096.jpg",
+    "thumbAvif": "img/thumb/avif/096.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/097.jpg",
-    "thumb": "/img/thumb/097.jpg",
+    "alt": "kuva 097",
+    "thumb": "img/thumb/jpg/097.jpg",
+    "thumbAvif": "img/thumb/avif/097.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/098.jpg",
-    "thumb": "/img/thumb/098.jpg",
+    "alt": "kuva 098",
+    "thumb": "img/thumb/jpg/098.jpg",
+    "thumbAvif": "img/thumb/avif/098.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/099.jpg",
-    "thumb": "/img/thumb/099.jpg",
+    "alt": "kuva 099",
+    "thumb": "img/thumb/jpg/099.jpg",
+    "thumbAvif": "img/thumb/avif/099.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/100.jpg",
-    "thumb": "/img/thumb/100.jpg",
+    "alt": "kuva 100",
+    "thumb": "img/thumb/jpg/100.jpg",
+    "thumbAvif": "img/thumb/avif/100.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/101.jpg",
-    "thumb": "/img/thumb/101.jpg",
+    "alt": "kuva 101",
+    "thumb": "img/thumb/jpg/101.jpg",
+    "thumbAvif": "img/thumb/avif/101.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/102.jpg",
-    "thumb": "/img/thumb/102.jpg",
+    "alt": "kuva 102",
+    "thumb": "img/thumb/jpg/102.jpg",
+    "thumbAvif": "img/thumb/avif/102.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/103.jpg",
-    "thumb": "/img/thumb/103.jpg",
+    "alt": "kuva 103",
+    "thumb": "img/thumb/jpg/103.jpg",
+    "thumbAvif": "img/thumb/avif/103.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/104.jpg",
-    "thumb": "/img/thumb/104.jpg",
+    "alt": "kuva 104",
+    "thumb": "img/thumb/jpg/104.jpg",
+    "thumbAvif": "img/thumb/avif/104.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/105.jpg",
-    "thumb": "/img/thumb/105.jpg",
+    "alt": "kuva 105",
+    "thumb": "img/thumb/jpg/105.jpg",
+    "thumbAvif": "img/thumb/avif/105.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/106.jpg",
-    "thumb": "/img/thumb/106.jpg",
+    "alt": "kuva 106",
+    "thumb": "img/thumb/jpg/106.jpg",
+    "thumbAvif": "img/thumb/avif/106.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/107.jpg",
-    "thumb": "/img/thumb/107.jpg",
+    "alt": "kuva 107",
+    "thumb": "img/thumb/jpg/107.jpg",
+    "thumbAvif": "img/thumb/avif/107.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/108.jpg",
-    "thumb": "/img/thumb/108.jpg",
+    "alt": "kuva 108",
+    "thumb": "img/thumb/jpg/108.jpg",
+    "thumbAvif": "img/thumb/avif/108.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/109.jpg",
-    "thumb": "/img/thumb/109.jpg",
+    "alt": "kuva 109",
+    "thumb": "img/thumb/jpg/109.jpg",
+    "thumbAvif": "img/thumb/avif/109.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/110.jpg",
-    "thumb": "/img/thumb/110.jpg",
+    "alt": "kuva 110",
+    "thumb": "img/thumb/jpg/110.jpg",
+    "thumbAvif": "img/thumb/avif/110.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/111.jpg",
-    "thumb": "/img/thumb/111.jpg",
+    "alt": "kuva 111",
+    "thumb": "img/thumb/jpg/111.jpg",
+    "thumbAvif": "img/thumb/avif/111.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/112.jpg",
-    "thumb": "/img/thumb/112.jpg",
+    "alt": "kuva 112",
+    "thumb": "img/thumb/jpg/112.jpg",
+    "thumbAvif": "img/thumb/avif/112.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/113.jpg",
-    "thumb": "/img/thumb/113.jpg",
+    "alt": "kuva 113",
+    "thumb": "img/thumb/jpg/113.jpg",
+    "thumbAvif": "img/thumb/avif/113.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/114.jpg",
-    "thumb": "/img/thumb/114.jpg",
+    "alt": "kuva 114",
+    "thumb": "img/thumb/jpg/114.jpg",
+    "thumbAvif": "img/thumb/avif/114.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/115.jpg",
-    "thumb": "/img/thumb/115.jpg",
+    "alt": "kuva 115",
+    "thumb": "img/thumb/jpg/115.jpg",
+    "thumbAvif": "img/thumb/avif/115.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/116.jpg",
-    "thumb": "/img/thumb/116.jpg",
+    "alt": "kuva 116",
+    "thumb": "img/thumb/jpg/116.jpg",
+    "thumbAvif": "img/thumb/avif/116.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/117.jpg",
-    "thumb": "/img/thumb/117.jpg",
+    "alt": "kuva 117",
+    "thumb": "img/thumb/jpg/117.jpg",
+    "thumbAvif": "img/thumb/avif/117.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/118.jpg",
-    "thumb": "/img/thumb/118.jpg",
+    "alt": "kuva 118",
+    "thumb": "img/thumb/jpg/118.jpg",
+    "thumbAvif": "img/thumb/avif/118.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/119.jpg",
-    "thumb": "/img/thumb/119.jpg",
+    "alt": "kuva 119",
+    "thumb": "img/thumb/jpg/119.jpg",
+    "thumbAvif": "img/thumb/avif/119.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/120.jpg",
-    "thumb": "/img/thumb/120.jpg",
+    "alt": "kuva 120",
+    "thumb": "img/thumb/jpg/120.jpg",
+    "thumbAvif": "img/thumb/avif/120.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/121.jpg",
-    "thumb": "/img/thumb/121.jpg",
+    "alt": "kuva 121",
+    "thumb": "img/thumb/jpg/121.jpg",
+    "thumbAvif": "img/thumb/avif/121.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/122.jpg",
-    "thumb": "/img/thumb/122.jpg",
+    "alt": "kuva 122",
+    "thumb": "img/thumb/jpg/122.jpg",
+    "thumbAvif": "img/thumb/avif/122.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/123.jpg",
-    "thumb": "/img/thumb/123.jpg",
+    "alt": "kuva 123",
+    "thumb": "img/thumb/jpg/123.jpg",
+    "thumbAvif": "img/thumb/avif/123.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/124.jpg",
-    "thumb": "/img/thumb/124.jpg",
+    "alt": "kuva 124",
+    "thumb": "img/thumb/jpg/124.jpg",
+    "thumbAvif": "img/thumb/avif/124.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/125.jpg",
-    "thumb": "/img/thumb/125.jpg",
+    "alt": "kuva 125",
+    "thumb": "img/thumb/jpg/125.jpg",
+    "thumbAvif": "img/thumb/avif/125.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/126.jpg",
-    "thumb": "/img/thumb/126.jpg",
+    "alt": "kuva 126",
+    "thumb": "img/thumb/jpg/126.jpg",
+    "thumbAvif": "img/thumb/avif/126.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/127.jpg",
-    "thumb": "/img/thumb/127.jpg",
+    "alt": "kuva 127",
+    "thumb": "img/thumb/jpg/127.jpg",
+    "thumbAvif": "img/thumb/avif/127.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/128.jpg",
-    "thumb": "/img/thumb/128.jpg",
+    "alt": "kuva 128",
+    "thumb": "img/thumb/jpg/128.jpg",
+    "thumbAvif": "img/thumb/avif/128.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/129.jpg",
-    "thumb": "/img/thumb/129.jpg",
+    "alt": "kuva 129",
+    "thumb": "img/thumb/jpg/129.jpg",
+    "thumbAvif": "img/thumb/avif/129.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/130.jpg",
-    "thumb": "/img/thumb/130.jpg",
+    "alt": "kuva 130",
+    "thumb": "img/thumb/jpg/130.jpg",
+    "thumbAvif": "img/thumb/avif/130.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/131.jpg",
-    "thumb": "/img/thumb/131.jpg",
+    "alt": "kuva 131",
+    "thumb": "img/thumb/jpg/131.jpg",
+    "thumbAvif": "img/thumb/avif/131.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/132.jpg",
-    "thumb": "/img/thumb/132.jpg",
+    "alt": "kuva 132",
+    "thumb": "img/thumb/jpg/132.jpg",
+    "thumbAvif": "img/thumb/avif/132.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/133.jpg",
-    "thumb": "/img/thumb/133.jpg",
+    "alt": "kuva 133",
+    "thumb": "img/thumb/jpg/133.jpg",
+    "thumbAvif": "img/thumb/avif/133.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/134.jpg",
-    "thumb": "/img/thumb/134.jpg",
+    "alt": "kuva 134",
+    "thumb": "img/thumb/jpg/134.jpg",
+    "thumbAvif": "img/thumb/avif/134.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/135.jpg",
-    "thumb": "/img/thumb/135.jpg",
+    "alt": "kuva 135",
+    "thumb": "img/thumb/jpg/135.jpg",
+    "thumbAvif": "img/thumb/avif/135.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/136.jpg",
-    "thumb": "/img/thumb/136.jpg",
+    "alt": "kuva 136",
+    "thumb": "img/thumb/jpg/136.jpg",
+    "thumbAvif": "img/thumb/avif/136.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/137.jpg",
-    "thumb": "/img/thumb/137.jpg",
+    "alt": "kuva 137",
+    "thumb": "img/thumb/jpg/137.jpg",
+    "thumbAvif": "img/thumb/avif/137.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/138.jpg",
-    "thumb": "/img/thumb/138.jpg",
+    "alt": "kuva 138",
+    "thumb": "img/thumb/jpg/138.jpg",
+    "thumbAvif": "img/thumb/avif/138.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/139.jpg",
-    "thumb": "/img/thumb/139.jpg",
+    "alt": "kuva 139",
+    "thumb": "img/thumb/jpg/139.jpg",
+    "thumbAvif": "img/thumb/avif/139.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/140.jpg",
-    "thumb": "/img/thumb/140.jpg",
+    "alt": "kuva 140",
+    "thumb": "img/thumb/jpg/140.jpg",
+    "thumbAvif": "img/thumb/avif/140.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/141.jpg",
-    "thumb": "/img/thumb/141.jpg",
+    "alt": "kuva 141",
+    "thumb": "img/thumb/jpg/141.jpg",
+    "thumbAvif": "img/thumb/avif/141.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/142.jpg",
-    "thumb": "/img/thumb/142.jpg",
+    "alt": "kuva 142",
+    "thumb": "img/thumb/jpg/142.jpg",
+    "thumbAvif": "img/thumb/avif/142.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/143.jpg",
-    "thumb": "/img/thumb/143.jpg",
+    "alt": "kuva 143",
+    "thumb": "img/thumb/jpg/143.jpg",
+    "thumbAvif": "img/thumb/avif/143.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/144.jpg",
-    "thumb": "/img/thumb/144.jpg",
+    "alt": "kuva 144",
+    "thumb": "img/thumb/jpg/144.jpg",
+    "thumbAvif": "img/thumb/avif/144.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/145.jpg",
-    "thumb": "/img/thumb/145.jpg",
+    "alt": "kuva 145",
+    "thumb": "img/thumb/jpg/145.jpg",
+    "thumbAvif": "img/thumb/avif/145.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/146.jpg",
-    "thumb": "/img/thumb/146.jpg",
+    "alt": "kuva 146",
+    "thumb": "img/thumb/jpg/146.jpg",
+    "thumbAvif": "img/thumb/avif/146.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/147.jpg",
-    "thumb": "/img/thumb/147.jpg",
+    "alt": "kuva 147",
+    "thumb": "img/thumb/jpg/147.jpg",
+    "thumbAvif": "img/thumb/avif/147.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/148.jpg",
-    "thumb": "/img/thumb/148.jpg",
+    "alt": "kuva 148",
+    "thumb": "img/thumb/jpg/148.jpg",
+    "thumbAvif": "img/thumb/avif/148.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/149.jpg",
-    "thumb": "/img/thumb/149.jpg",
+    "alt": "kuva 149",
+    "thumb": "img/thumb/jpg/149.jpg",
+    "thumbAvif": "img/thumb/avif/149.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/150.jpg",
-    "thumb": "/img/thumb/150.jpg",
+    "alt": "kuva 150",
+    "thumb": "img/thumb/jpg/150.jpg",
+    "thumbAvif": "img/thumb/avif/150.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/151.jpg",
-    "thumb": "/img/thumb/151.jpg",
+    "alt": "kuva 151",
+    "thumb": "img/thumb/jpg/151.jpg",
+    "thumbAvif": "img/thumb/avif/151.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/152.jpg",
-    "thumb": "/img/thumb/152.jpg",
+    "alt": "kuva 152",
+    "thumb": "img/thumb/jpg/152.jpg",
+    "thumbAvif": "img/thumb/avif/152.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/153.jpg",
-    "thumb": "/img/thumb/153.jpg",
+    "alt": "kuva 153",
+    "thumb": "img/thumb/jpg/153.jpg",
+    "thumbAvif": "img/thumb/avif/153.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/154.jpg",
-    "thumb": "/img/thumb/154.jpg",
+    "alt": "kuva 154",
+    "thumb": "img/thumb/jpg/154.jpg",
+    "thumbAvif": "img/thumb/avif/154.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/155.jpg",
-    "thumb": "/img/thumb/155.jpg",
+    "alt": "kuva 155",
+    "thumb": "img/thumb/jpg/155.jpg",
+    "thumbAvif": "img/thumb/avif/155.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/156.jpg",
-    "thumb": "/img/thumb/156.jpg",
+    "alt": "kuva 156",
+    "thumb": "img/thumb/jpg/156.jpg",
+    "thumbAvif": "img/thumb/avif/156.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/157.jpg",
-    "thumb": "/img/thumb/157.jpg",
+    "alt": "kuva 157",
+    "thumb": "img/thumb/jpg/157.jpg",
+    "thumbAvif": "img/thumb/avif/157.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/158.jpg",
-    "thumb": "/img/thumb/158.jpg",
+    "alt": "kuva 158",
+    "thumb": "img/thumb/jpg/158.jpg",
+    "thumbAvif": "img/thumb/avif/158.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/159.jpg",
-    "thumb": "/img/thumb/159.jpg",
+    "alt": "kuva 159",
+    "thumb": "img/thumb/jpg/159.jpg",
+    "thumbAvif": "img/thumb/avif/159.avif",
+    "thumbSize": 300,
     "width": 2400,
     "height": 3600
   },
   {
     "url": "/img/full/160.jpg",
-    "thumb": "/img/thumb/160.jpg",
+    "alt": "kuva 160",
+    "thumb": "img/thumb/jpg/160.jpg",
+    "thumbAvif": "img/thumb/avif/160.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/161.jpg",
-    "thumb": "/img/thumb/161.jpg",
+    "alt": "kuva 161",
+    "thumb": "img/thumb/jpg/161.jpg",
+    "thumbAvif": "img/thumb/avif/161.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
   },
   {
     "url": "/img/full/162.jpg",
-    "thumb": "/img/thumb/162.jpg",
+    "alt": "kuva 162",
+    "thumb": "img/thumb/jpg/162.jpg",
+    "thumbAvif": "img/thumb/avif/162.avif",
+    "thumbSize": 300,
     "width": 3600,
     "height": 2400
+  },
+  {
+    "url": "/img/full/163.jpg",
+    "alt": "kuva 163",
+    "thumb": "img/thumb/jpg/163.jpg",
+    "thumbAvif": "img/thumb/avif/163.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/164.jpg",
+    "alt": "kuva 164",
+    "thumb": "img/thumb/jpg/164.jpg",
+    "thumbAvif": "img/thumb/avif/164.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/165.jpg",
+    "alt": "kuva 165",
+    "thumb": "img/thumb/jpg/165.jpg",
+    "thumbAvif": "img/thumb/avif/165.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/166.jpg",
+    "alt": "kuva 166",
+    "thumb": "img/thumb/jpg/166.jpg",
+    "thumbAvif": "img/thumb/avif/166.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/167.jpg",
+    "alt": "kuva 167",
+    "thumb": "img/thumb/jpg/167.jpg",
+    "thumbAvif": "img/thumb/avif/167.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/168.jpg",
+    "alt": "kuva 168",
+    "thumb": "img/thumb/jpg/168.jpg",
+    "thumbAvif": "img/thumb/avif/168.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/169.jpg",
+    "alt": "kuva 169",
+    "thumb": "img/thumb/jpg/169.jpg",
+    "thumbAvif": "img/thumb/avif/169.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/170.jpg",
+    "alt": "kuva 170",
+    "thumb": "img/thumb/jpg/170.jpg",
+    "thumbAvif": "img/thumb/avif/170.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/171.jpg",
+    "alt": "kuva 171",
+    "thumb": "img/thumb/jpg/171.jpg",
+    "thumbAvif": "img/thumb/avif/171.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/172.jpg",
+    "alt": "kuva 172",
+    "thumb": "img/thumb/jpg/172.jpg",
+    "thumbAvif": "img/thumb/avif/172.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/173.jpg",
+    "alt": "kuva 173",
+    "thumb": "img/thumb/jpg/173.jpg",
+    "thumbAvif": "img/thumb/avif/173.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/174.jpg",
+    "alt": "kuva 174",
+    "thumb": "img/thumb/jpg/174.jpg",
+    "thumbAvif": "img/thumb/avif/174.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/175.jpg",
+    "alt": "kuva 175",
+    "thumb": "img/thumb/jpg/175.jpg",
+    "thumbAvif": "img/thumb/avif/175.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/176.jpg",
+    "alt": "kuva 176",
+    "thumb": "img/thumb/jpg/176.jpg",
+    "thumbAvif": "img/thumb/avif/176.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/177.jpg",
+    "alt": "kuva 177",
+    "thumb": "img/thumb/jpg/177.jpg",
+    "thumbAvif": "img/thumb/avif/177.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/178.jpg",
+    "alt": "kuva 178",
+    "thumb": "img/thumb/jpg/178.jpg",
+    "thumbAvif": "img/thumb/avif/178.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/179.jpg",
+    "alt": "kuva 179",
+    "thumb": "img/thumb/jpg/179.jpg",
+    "thumbAvif": "img/thumb/avif/179.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/180.jpg",
+    "alt": "kuva 180",
+    "thumb": "img/thumb/jpg/180.jpg",
+    "thumbAvif": "img/thumb/avif/180.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/181.jpg",
+    "alt": "kuva 181",
+    "thumb": "img/thumb/jpg/181.jpg",
+    "thumbAvif": "img/thumb/avif/181.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/182.jpg",
+    "alt": "kuva 182",
+    "thumb": "img/thumb/jpg/182.jpg",
+    "thumbAvif": "img/thumb/avif/182.avif",
+    "thumbSize": 300,
+    "width": 3600,
+    "height": 2400
+  },
+  {
+    "url": "/img/full/183.jpg",
+    "alt": "kuva 183",
+    "thumb": "img/thumb/jpg/183.jpg",
+    "thumbAvif": "img/thumb/avif/183.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/184.jpg",
+    "alt": "kuva 184",
+    "thumb": "img/thumb/jpg/184.jpg",
+    "thumbAvif": "img/thumb/avif/184.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/185.jpg",
+    "alt": "kuva 185",
+    "thumb": "img/thumb/jpg/185.jpg",
+    "thumbAvif": "img/thumb/avif/185.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/186.jpg",
+    "alt": "kuva 186",
+    "thumb": "img/thumb/jpg/186.jpg",
+    "thumbAvif": "img/thumb/avif/186.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/187.jpg",
+    "alt": "kuva 187",
+    "thumb": "img/thumb/jpg/187.jpg",
+    "thumbAvif": "img/thumb/avif/187.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
+  },
+  {
+    "url": "/img/full/188.jpg",
+    "alt": "kuva 188",
+    "thumb": "img/thumb/jpg/188.jpg",
+    "thumbAvif": "img/thumb/avif/188.avif",
+    "thumbSize": 300,
+    "width": 2400,
+    "height": 3600
   },
   {}
 ]
